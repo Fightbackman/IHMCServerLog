@@ -1,0 +1,3 @@
+v1.0 - 19.12.13
+-init changelog
+- will be used for storing all further serverchanges
